@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 purpose="Hw prints hello world!"
-version=0.0.0
+version=0.1.0
 
 case "${1}" in
 	-h|--help)
